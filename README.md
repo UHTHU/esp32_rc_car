@@ -6,7 +6,8 @@ remote-controlled car from scratch.
 ## Tutorials
 
 1. [Exact modules/parts to buy](#1-exact-modulesparts-to-buy)
-2. [PID line following with IR and ultrasonic sensors](docs/pid-line-following-ultrasonic.md)
+2. [Beginner wiring: VCC, GND, GPIO, and choosing pins](docs/beginner-wiring-vcc-gnd-gpio.md)
+3. [PID line following with IR and ultrasonic sensors](docs/pid-line-following-ultrasonic.md)
    - Example sketch:
      [`examples/esp32_pid_line_ultrasonic/esp32_pid_line_ultrasonic.ino`](examples/esp32_pid_line_ultrasonic/esp32_pid_line_ultrasonic.ino)
 

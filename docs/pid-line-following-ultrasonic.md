@@ -25,6 +25,10 @@ The PID controller turns that difference into a smooth steering correction.
 Use ESP32 ADC1 pins for the IR sensors. ADC2 pins conflict with Wi-Fi on the
 ESP32, so avoid ADC2 pins for analog sensors.
 
+If terms like **VCC**, **GND**, **GPIO**, **AO**, or **DO** are new to you,
+read [Beginner wiring: VCC, GND, GPIO, and choosing pins](beginner-wiring-vcc-gnd-gpio.md)
+before connecting the car.
+
 ### Sensor wiring
 
 | Part | Module pin | ESP32 pin |
