@@ -3,6 +3,13 @@
 This repository is for learning ESP32 development and C++ by building a small
 remote-controlled car from scratch.
 
+## Tutorials
+
+1. [Exact modules/parts to buy](#1-exact-modulesparts-to-buy)
+2. [PID line following with IR and ultrasonic sensors](docs/pid-line-following-ultrasonic.md)
+   - Example sketch:
+     [`examples/esp32_pid_line_ultrasonic/esp32_pid_line_ultrasonic.ino`](examples/esp32_pid_line_ultrasonic/esp32_pid_line_ultrasonic.ino)
+
 ## 1. Exact modules/parts to buy
 
 Use these exact module names or part numbers when searching online. Some cheap
